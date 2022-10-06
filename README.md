@@ -1,1 +1,1 @@
-# Lion Bets Token Contract
+# 2xlucky Token Contract
